@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\advik\\source\\repos\\GDDownloader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\setinstfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:setinstfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\getinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:getinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\delinstfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:delinstfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\createinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:createinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\removeinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:removeinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\gdapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:gdapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\crefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:crefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\crefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:crefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\play.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:play.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\saved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:saved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\getversioninst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:getversioninst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\saved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:saved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|c:\\users\\advik\\source\\repos\\gddownloader\\getinstlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:getinstlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\advik\\AppData\\Local\\Temp\\.vsdbgsrc\\2acea2a436b95885218271a8a59cb03a2ea950dbd4dc6863b4dbf875d03ed647\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\deletef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:deletef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\op.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:op.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|C:\\Users\\advik\\source\\repos\\GDDownloader\\instaince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A884CA54-C496-4364-8591-26ED891F6DF1}|GDDownloader.csproj|solutionrelative:instaince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "play.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\play.cs",
+              "RelativeDocumentMoniker": "play.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\play.cs",
+              "RelativeToolTip": "play.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAKwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:26:24.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getinst.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\getinst.cs",
+              "RelativeDocumentMoniker": "getinst.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\getinst.cs",
+              "RelativeToolTip": "getinst.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:50:36.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GDAPI.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\GDAPI.cs",
+              "RelativeDocumentMoniker": "GDAPI.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\GDAPI.cs",
+              "RelativeToolTip": "GDAPI.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAARwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:50:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "play.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\play.cs",
+              "RelativeDocumentMoniker": "play.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\play.cs [Design]",
+              "RelativeToolTip": "play.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:01:40.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "crefrom.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\crefrom.cs",
+              "RelativeDocumentMoniker": "crefrom.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\crefrom.cs",
+              "RelativeToolTip": "crefrom.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAARwC0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:52:25.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "setinstfile.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\setinstfile.cs",
+              "RelativeDocumentMoniker": "setinstfile.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\setinstfile.cs",
+              "RelativeToolTip": "setinstfile.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:54:49.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "createinst.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\createinst.cs",
+              "RelativeDocumentMoniker": "createinst.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\createinst.cs",
+              "RelativeToolTip": "createinst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:57:56.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "delinstfile.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\delinstfile.cs",
+              "RelativeDocumentMoniker": "delinstfile.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\delinstfile.cs",
+              "RelativeToolTip": "delinstfile.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAnwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:28:21.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "removeinst.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\removeinst.cs",
+              "RelativeDocumentMoniker": "removeinst.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\removeinst.cs",
+              "RelativeToolTip": "removeinst.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:06:14.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "getversioninst.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\getversioninst.cs",
+              "RelativeDocumentMoniker": "getversioninst.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\getversioninst.cs",
+              "RelativeToolTip": "getversioninst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:36:33.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-08-09T23:18:36.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:08:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:13:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "saved.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\saved.cs",
+              "RelativeDocumentMoniker": "saved.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\saved.cs",
+              "RelativeToolTip": "saved.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:12:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "getinstlist.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\getinstlist.cs",
+              "RelativeDocumentMoniker": "getinstlist.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\getinstlist.cs",
+              "RelativeToolTip": "getinstlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:54:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "play.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\play.Designer.cs",
+              "RelativeDocumentMoniker": "play.Designer.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\play.Designer.cs",
+              "RelativeToolTip": "play.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAABBwJ8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:31:00.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "play.cs",
+              "DocumentMoniker": "C:\\Users\\advik\\AppData\\Local\\Temp\\.vsdbgsrc\\2acea2a436b95885218271a8a59cb03a2ea950dbd4dc6863b4dbf875d03ed647\\play.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2acea2a436b95885218271a8a59cb03a2ea950dbd4dc6863b4dbf875d03ed647\\play.cs",
+              "ToolTip": "C:\\Users\\advik\\AppData\\Local\\Temp\\.vsdbgsrc\\2acea2a436b95885218271a8a59cb03a2ea950dbd4dc6863b4dbf875d03ed647\\play.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2acea2a436b95885218271a8a59cb03a2ea950dbd4dc6863b4dbf875d03ed647\\play.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:03:55.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:13:32.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "crefrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\crefrom.cs",
+              "RelativeDocumentMoniker": "crefrom.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\crefrom.cs [Design]",
+              "RelativeToolTip": "crefrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:10:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "saved.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\saved.cs",
+              "RelativeDocumentMoniker": "saved.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\saved.cs [Design]",
+              "RelativeToolTip": "saved.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:37:13.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "help.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\help.cs",
+              "RelativeDocumentMoniker": "help.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\help.cs [Design]",
+              "RelativeToolTip": "help.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:13:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Instaince.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Instaince.cs",
+              "RelativeDocumentMoniker": "Instaince.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\Instaince.cs [Design]",
+              "RelativeToolTip": "Instaince.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:15:37.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "op.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\op.cs",
+              "RelativeDocumentMoniker": "op.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\op.cs [Design]",
+              "RelativeToolTip": "op.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:56:06.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "deletef.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\deletef.cs",
+              "RelativeDocumentMoniker": "deletef.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\deletef.cs [Design]",
+              "RelativeToolTip": "deletef.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:10:02.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "setting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\advik\\source\\repos\\GDDownloader\\setting.cs",
+              "RelativeDocumentMoniker": "setting.cs",
+              "ToolTip": "C:\\Users\\advik\\source\\repos\\GDDownloader\\setting.cs [Design]",
+              "RelativeToolTip": "setting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:06:19.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

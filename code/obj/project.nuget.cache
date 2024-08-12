@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hcu0ckjmWQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\advik\\source\\repos\\GDDownloader\\GDDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\advik\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
